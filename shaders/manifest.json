@@ -32,7 +32,7 @@
     },
     {
       "file": "raymarch_scene.wgsl",
-      "name": "Raymarching Subtract",
+      "name": "Interactive Scene",
       "description": "Advanced ray marching with reflection, refraction, Fresnel effects, and multiple material types"
     }
   ]
