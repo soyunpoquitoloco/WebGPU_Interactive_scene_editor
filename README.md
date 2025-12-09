@@ -1,10 +1,13 @@
 # WebGPU Interactive Ray Marching Scene Editor 🚀
 
-**[Live Demo](https://[your-username].github.io/[repo-name]/)**
+**[Live Demo](https://soyunpoquitoloco.github.io/WebGPU_Interactive_scene_editor/)**
 
 An interactive 3D scene editor built with WebGPU and ray marching, allowing real-time manipulation of 3D primitives via a user-friendly UI panel.
 
-![Editor Demo](WebGPU.mp4)
+<video width="640" height="360" controls>
+<source src="videos/WebGPU.mp4" type="video/mp4">
+Votre navigateur ne supporte pas la balise vidéo.
+</video>
 ---
 ## Features
 
