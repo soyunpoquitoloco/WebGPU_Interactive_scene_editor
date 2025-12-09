@@ -5,7 +5,7 @@
 An interactive 3D scene editor built with WebGPU and ray marching, allowing real-time manipulation of 3D primitives via a user-friendly UI panel.
 
 <video width="640" height="360" controls>
-<source src="videos/WebGPU.mp4" type="video/mp4">
+<source src="WebGPU.mp4" type="video/mp4">
 Votre navigateur ne supporte pas la balise vidéo.
 </video>
 
