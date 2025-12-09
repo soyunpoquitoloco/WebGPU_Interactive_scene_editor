@@ -8,6 +8,7 @@ An interactive 3D scene editor built with WebGPU and ray marching, allowing real
 <source src="videos/WebGPU.mp4" type="video/mp4">
 Votre navigateur ne supporte pas la balise vidéo.
 </video>
+
 ---
 ## Features
 
@@ -26,7 +27,8 @@ Votre navigateur ne supporte pas la balise vidéo.
    ```bash
    git clone https://github.com/[your-username]/[repo-name].git
 2. Start a local server (required for WebGPU):
-python -m http.server
+   ```bash
+   python -m http.server
 3. Open http://localhost:8000 in your browser.
 ---
 ## Project Structure
